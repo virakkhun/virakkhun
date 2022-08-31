@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on OneSala Website
-- 🌱 I’m currently learning Angular
-- 👯 I’m looking to collaborate on an open source project.
+- 🌱 I’m currently learning [Angular](https://angular.io/)
+- 👯 I’m looking to collaborate on an open source projects.
 - 💬 Ask me about [Nuxt](https://v3.nuxtjs.org/) and [TS](https://www.typescriptlang.org/)
 - ⚡ Fun fact: always forgot to switch branch
 - 🍕 Fav: space, tech...
+- ❤️ Lang: TypeScript
 
 ### Github Stats
 
