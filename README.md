@@ -9,4 +9,4 @@
 
 ### Github Stats
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=virakkhun&count_private=true&theme=default&show_icons=true)](https://github.com/virakkhun)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=virakkhun&count_private=true&theme=default&show_icons=true&theme=dracula)](https://github.com/virakkhun)
