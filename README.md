@@ -12,7 +12,7 @@
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=virakkhun&count_private=true&show_icons=true&theme=gotham)](https://github.com/virakkhun)
 
 ### Most Used Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virakkhun&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virakkhun&layout=compact&show_icons=true&theme=gotham)
 
 ### bloG
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=virakkhun&repo=bloG)](https://github.com/virakkhun/bloG)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=virakkhun&repo=bloG&show_icons=true&theme=gotham)](https://github.com/virakkhun/bloG)
