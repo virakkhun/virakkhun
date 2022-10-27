@@ -9,7 +9,7 @@
 
 ### Github Stats
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=virakkhun&count_private=true&theme=default&show_icons=true&theme=dark)](https://github.com/virakkhun)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=virakkhun&count_private=true&show_icons=true&theme=dark)](https://github.com/virakkhun)
 
 ### Most Used Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virakkhun&layout=compact)]
