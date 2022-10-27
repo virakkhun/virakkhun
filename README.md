@@ -10,3 +10,6 @@
 ### Github Stats
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=virakkhun&count_private=true&theme=default&show_icons=true&theme=dracula)](https://github.com/virakkhun)
+
+### Most Used Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virakkhun)]
