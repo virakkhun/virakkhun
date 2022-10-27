@@ -13,3 +13,6 @@
 
 ### Most Used Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virakkhun&layout=compact)
+
+### bloG
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=virakkhun&repo=bloG)](https://github.com/virakkhun/bloG)
