@@ -2,4 +2,4 @@
 
 `languages:` `.ts`, `.go`, `.js`
 <br />
-`my website:` `https://virak.vercel.app`
+`my website:` [📖](https://virak.vercel.app)
